@@ -5,4 +5,4 @@ Hello Joanna,
 Here is my homework.
 Thanks
 
-http://students.washington.edu/ydingles/
+http://students.washington.edu/ydingles/info343/git-started
